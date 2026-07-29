@@ -65,13 +65,6 @@ The application will start, and the development server URL will be displayed in 
 ## 💡 Usage
 *   **For Admins**: Log in to access the dashboard. Here you can configure the allowed geographical coordinates, manage student data, and monitor overall attendance records.
 *   **For Students**: Log in using your registered credentials. When a class period is active, navigate to the attendance section, allow location and camera access, and verify your identity to mark yourself present.
-## 📸 Screenshots
-![Login Screen](image-link-here)
-*(Placeholder: Add screenshot of the login interface)*
-![Student Dashboard](image-link-here)
-*(Placeholder: Add screenshot showing the face recognition and location map)*
-![Admin Panel](image-link-here)
-*(Placeholder: Add screenshot of the admin managing attendance)*
 ## 🔮 Future Enhancements
 *   Mobile Application (React Native) for easier student access.
 *   Integration with campus Wi-Fi for an additional layer of location verification.
